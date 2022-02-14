@@ -2,7 +2,7 @@
 
 ### @: ITMO University
 
--  #####Lab 8
+-  ####Lab 8
 [Tasks description](http://neerc.ifmo.ru/teaching/disalgo/problems/problems8.pdf "Tasks description")
 
  - [8A: From the list of edges to the adjacency matrix](https://github.com/SweetestRat/Algorithms-and-Data-Structures/blob/master/8%20lab/A_OrientedGraph.cpp "8A: From the list of edges to the adjacency matrix")
