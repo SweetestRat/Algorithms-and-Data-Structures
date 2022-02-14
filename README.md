@@ -2,10 +2,7 @@
 
 ### @: ITMO University
 
--  Lab 8
-
-[Tasks description](http://neerc.ifmo.ru/teaching/disalgo/problems/problems8.pdf "Tasks description")
-
+-  Lab 8 ([Tasks description](http://neerc.ifmo.ru/teaching/disalgo/problems/problems8.pdf "Tasks description"))
  - [8A: From the list of edges to the adjacency matrix](https://github.com/SweetestRat/Algorithms-and-Data-Structures/blob/master/8%20lab/A_OrientedGraph.cpp "8A: From the list of edges to the adjacency matrix")
  - [8B: Non-Orientation check](https://github.com/SweetestRat/Algorithms-and-Data-Structures/blob/master/8%20lab/B_DisorientationCheck.cpp "8B: Non-Orientation check")
  - [8C: Checking for parallel edges](https://github.com/SweetestRat/Algorithms-and-Data-Structures/blob/master/8%20lab/C_ParallelExistence.cpp "8C: Checking for parallel edges")
